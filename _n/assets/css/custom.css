@@ -1,0 +1,49 @@
+/* Write your custom CSS here */
+.pt20 {
+    padding-top: 20px;
+}
+.panel-gray{
+    background: #606060;
+}
+.panel > .panel-heading {
+    background: #2d607b;
+    color: #fff;
+    text-transform: uppercase;
+}
+.btn {
+    font-size: 14px;
+}
+.btn-primary {
+    background: #398bb7;
+}
+.btn-info {
+    background: #b77d39;
+}
+.btn-danger {
+    background: #b74839;
+}
+.btn-success {
+    background: #39b75b;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+    background: #3f9aca;
+}
+.btn-info:hover,
+.btn-info:focus {
+    background: #ca8a3f;
+}
+.btn-danger:hover,
+.btn-danger:focus {
+    background: #ca503f;
+}
+.btn-success:hover,
+.btn-success:focus {
+    background: #3fca65;
+}
+.btn:active {
+    -webkit-transform: translateY(2px);
+    -ms-transform: translateY(2px);
+    -o-transform: translateY(2px);
+    transform: translateY(2px);
+}

@@ -183,7 +183,7 @@
 					<p class="crsDisTite">DAY AND TIMES</p>
 					<p class="crsDisBody">2 hours a day & 2 days a week.</p>
 					<p class="crsDisTite">COURSE FEE</p>
-					<p class="crsDisBody">12,000 Taka</p>
+					<p class="crsDisBody">15,000 Taka</p>
 				</div>
 				<div class="col-md-9 col-sm-9 pd0">
 					<img src="images/course/creEmailMarketting.jpg" alt="email" class="img-responsive">
