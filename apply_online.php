@@ -43,8 +43,8 @@
                                 
                             </div>
                             <div class="col-sm-9">
-                                <input type="radio" id="gender" name="gender"> Male
-                                <input type="radio" id="gender" name="gender"> Female
+                                <input type="radio" id="gender1" name="gender"> <label for="gender1">Male</label>
+                                <input type="radio" id="gender2" name="gender"> <label for="gender2">Female</label>
                             </div>
                         </div>
                         <div class="col-sm-12 pd0 marT10">

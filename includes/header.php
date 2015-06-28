@@ -41,8 +41,18 @@
         <link rel="stylesheet" href="css/jquery-rebox.css" type="text/css">
         <link rel="stylesheet" href="css/screen.css" type="text/css">
         <link rel="stylesheet" href="css/jqueryscripttop.css" type="text/css">
+        
+        
+        <link rel="stylesheet" href="css/rev-settings.css" media="screen" type="text/css">
+        
+        
         <link rel="stylesheet" href="css/responsive.css" type="text/css">
         <link rel="stylesheet" href="../css/pd-youtube-lightbox.css" type="text/css">
+        
+        
+        <script type="text/javascript" src="js/modernizr-2.8.3.min.js"></script>
+        
+        
         <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
         <script type="text/javascript" src="js/wow.min.js"></script>
         <script type="text/javascript" src="js/slick.min.js"></script>
@@ -51,7 +61,12 @@
 		<script type="text/javascript" src="js/jquery-rebox.js"></script>
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/scrollTop.js"></script>
-        <script type="text/javascript" src="js/sleekslider.js"></script>
+        
+        
+        <script type="text/javascript" src="js/rev-tools.js"></script>
+        <script type="text/javascript" src="js/rev-slider.js"></script>
+        
+        
         <script type="text/javascript" src="js/jquery.validate.js"></script>
         <script src="http://maps.googleapis.com/maps/api/js"></script>
         <script type="text/javascript" src="js/nahian.js"></script>
@@ -61,13 +76,13 @@
         <header>
             <section class="header-top full">
                 <div class="container">
-                    <div class="col-md-6 pd0">
+                    <div class="col-md-10 pd0">
                         <div class="lattest-news">
                             <b class="col-md-3 pd0">LATEST NEWS <span class="fa fa-caret-right"></span></b>
                             <marquee class="col-md-9" scrolldelay="10" scrollamount="3">Skill Enhancement for Graduate Program open now !!!</marquee>
                         </div><!--lattest-news ends-->
                     </div><!--col-md-6 ends-->
-                    <div class="col-md-3 pd0 col-md-offset-3">
+                    <div class="col-md-2 pd0">
                         <div class="social">
                             <ul>
                                 <li>
@@ -99,6 +114,9 @@
                             <li><img src="images/dot.png" alt=""><a href="#" target="_blank">BLOG</a></li>
                                                                                     
                         </ul>
+                        <a href="https://play.google.com/store/apps/details?id=cit.institute.psajm" target="_blank">
+                            <img class="img-responsive" src="images/download-app.png" alt="">
+                        </a>
                     </div><!--header-menu ends-->
                     <div class="col-md-4 col-sm-4 pd0">
                         <div class="logo">

@@ -8,7 +8,7 @@
             </a>
         </div><!--hightLightBg end-->
         <div class="col-md-3 pd0 hightLightBg col-sm-6">
-            <a href="apply_online.php#link">
+            <a href="apply_seminar.php#link">
                 <span>apply for</span>
                 <h2>FREE Seminar</h2>
                 <img class="img-responsive" src="images/outsourcing.png" alt="diploma">

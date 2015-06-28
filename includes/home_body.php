@@ -70,18 +70,61 @@
             </div><!--#crsBody end-->
         </div><!--creative courses end-->
         <div class="col-md-6 pd0 citCourse wow fadeInRight" data-nahian-offset="200">
-            <div class="col-md-12 pd0 citTitle">UPCOMING event</div>
+            <div class="col-md-12 pd0 citTitle">UPCOMING seminar</div>
             <div class="col-md-12 pd0 upcoming">
-                <img class="img-resopnsive" src="images/upcoming-events.jpg" alt="upcoming">
-                <div class="upEvent">
-                    <p>
-                        Communicative English for Outsourcing
-                    </p>
-                    <a href="communicative_english.php#link">
-                        <button>
-                            learn more
-                        </button>
-                    </a>
+                <div id="seminar_n" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#seminar_n" data-slide-to="0" class="active"></li>
+                        <li data-target="#seminar_n" data-slide-to="1"></li>
+                        <li data-target="#seminar_n" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="images/seminar-p.jpg" alt="stu-high">
+                            <div class="content-c">
+                                <div class="col-xs-4">
+                                    <p>Professional <br> Graphic Design</p>
+                                </div>
+                                <div class="col-xs-4 pd0">
+                                    <h1>01</h1><p>June <br> 2015</p>
+                                </div>
+                                <div class="col-xs-4 pd0">
+                                    <h1>2.00</h1><p class="pm">PM</p>
+                                </div>
+                                <a href="#">learn more</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/seminar-p1.jpg" alt="stu-high">
+                            <div class="content-c">
+                                <div class="col-xs-4">
+                                    <p>Professional <br> Web Design</p>
+                                </div>
+                                <div class="col-xs-4 pd0">
+                                    <h1>01</h1><p>June <br> 2015</p>
+                                </div>
+                                <div class="col-xs-4 pd0">
+                                    <h1>4.00</h1><p class="pm">PM</p>
+                                </div>
+                                <a href="#">learn more</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/seminar-p3.jpg" alt="stu-high">
+                            <div class="content-c">
+                                <div class="col-xs-4">
+                                    <p>Apps <br>  Developement</p>
+                                </div>
+                                <div class="col-xs-4 pd0">
+                                    <h1>01</h1><p>June <br> 2015</p>
+                                </div>
+                                <div class="col-xs-4 pd0">
+                                    <h1>6.00</h1><p class="pm">PM</p>
+                                </div>
+                                <a href="#">learn more</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div><!--UPCOMING event end-->
@@ -96,10 +139,10 @@
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="images/stu-high.jpg" alt="stu-high">
+                            <img src="images/sth-apps.jpg" alt="stu-high">
                         </div>
                         <div class="item">
-                            <img src="images/stu-high.jpg" alt="stu-high">
+                            <img src="images/sth-gd.jpg" alt="stu-high">
                         </div>
                         <div class="item">
                             <img src="images/stu-high.jpg" alt="stu-high">
@@ -110,17 +153,23 @@
         </div><!--STUDENT HIGHLIGHT end-->
         <div class="col-md-6 pd0 citCourse wow fadeInRight" data-nahian-offset="200">
             <div class="col-md-12 pd0 spotLight">
-                <img class="img-resopnsive" src="images/spotlight-bg.jpg" alt="spotlight">
+                <a id="video" href="" data-src="HzxPO14PfOU">
+                    <img class="img-responsive" src="images/spotlight-bg.jpg" alt="">
+                    <span class="fa fa-play"></span>
+                    <div class="spotLightTxt">
+                        <p><span>INSTITUTE</span><br>SPOTLIGHT</p>
+                    </div>
+                </a>
+<!--                <img class="img-resopnsive" src="images/spotlight-bg.jpg" alt="spotlight">-->
+<!--
                 <div class="spotLightTxt">
                     <p><span>INSTITUTE</span>
                         <br>SPOTLIGHT</p>
-                    <i>Creative IT Institute
-                        has successfully trained more than 400,000 
-                        students through its career-oriented courses
-                        over the past 9 years.</i>
-                    <br>
+                    
+                    
                     <a href="press&media.php#link">learn more <span class="fa fa-chevron-right"></span></a>
                 </div>
+-->
             </div>
         </div><!--Spotlight part end-->
         <div class="col-md-12 pd0">

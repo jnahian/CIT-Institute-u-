@@ -86,6 +86,17 @@
                                        </div>
                                    </td>
                                </tr>
+                               <tr>
+                                   <td>Tiger Nixon</td>
+                                   <td>System Architect</td>
+                                   <td>Edinburgh</td>
+                                   <td>
+                                       <div class="btn-group">
+                                           <button type="button" class="btn btn-danger"><i class="icon-trash"></i></button>
+                                           <button type="button" class="btn btn-info"><i class="icon-note"></i></button>
+                                       </div>
+                                   </td>
+                               </tr>
                                
                            </tbody>
                        </table>  

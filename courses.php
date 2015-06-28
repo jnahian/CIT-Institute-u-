@@ -115,6 +115,59 @@
 			</div>
 		</div>
 		<!--courseDet end-->
+		
+		<div class="container pd0 courseDet wow fadeInleft" data-nahian-offset="100" data-nahian-delay=".2s">
+			<div class="col-md-12 pd0">
+				<div class="col-md-3 col-sm-3 pd0 courseBdr">Course</div>
+				<div class="col-md-9 col-sm-9 pd0 crsHead">
+                    <p class="col-sm-10"><b>Cisco Certified</b> Network Associate </p>
+                    <a class="col-sm-2 text-center" href="ccna_details.php#link">Learn more <span class="fa fa-angle-right"></span></a>
+				</div>
+			</div>
+			<div class="col-md-12 pd0">
+				<div class="col-md-3 col-sm-3 pd0">
+                    <p class="crsDisTite">TOPICS</p>
+                    <p class="crsDisBody">Networking fundamentals, LANs and switches, VLAN & VTP, Routing</p>
+					<p class="crsDisTite">DURATION</p>
+					<p class="crsDisBody">4 months (36 Classes)</p>
+					<p class="crsDisTite">DAY AND TIMES</p>
+					<p class="crsDisBody">2 hours a day & 2 days a week.</p>
+					<p class="crsDisTite">COURSE FEE</p>
+					<p class="crsDisBody">15,000 Taka</p>
+				</div>
+				<div class="col-md-9 col-sm-9 pd0">
+					<img src="images/course/ccna.jpg" alt="WebDev" class="img-responsive">
+				</div>
+			</div>
+		</div>
+		<!--courseDet end-->
+		
+		<div class="container pd0 courseDet wow fadeInleft" data-nahian-offset="100" data-nahian-delay=".2s">
+			<div class="col-md-12 pd0">
+				<div class="col-md-3 col-sm-3 pd0 courseBdr">Course</div>
+				<div class="col-md-9 col-sm-9 pd0 crsHead">
+                    <p class="col-sm-10"><b>OPNET /</b> Riverbed </p>
+                    <a class="col-sm-2 text-center" href="opnet_details.php#link">Learn more <span class="fa fa-angle-right"></span></a>
+				</div>
+			</div>
+			<div class="col-md-12 pd0">
+				<div class="col-md-3 col-sm-3 pd0">
+                    <p class="crsDisTite">TOPICS</p>
+                    <p class="crsDisBody">Ethernet Network, Wi-Fi, WIMAX, Mobile Network, Vehicle Network, Microwave Network, Telecommunication Network, VOIP</p>
+					<p class="crsDisTite">DURATION</p>
+					<p class="crsDisBody">4 months (36 Classes)</p>
+					<p class="crsDisTite">DAY AND TIMES</p>
+					<p class="crsDisBody">2 hours a day & 2 days a week.</p>
+					<p class="crsDisTite">COURSE FEE</p>
+					<p class="crsDisBody">20,000 Taka</p>
+				</div>
+				<div class="col-md-9 col-sm-9 pd0">
+					<img src="images/course/opnet.jpg" alt="WebDev" class="img-responsive">
+				</div>
+			</div>
+		</div>
+		<!--courseDet end-->
+		
 		<div class="container pd0 courseDet wow fadeInRight" data-nahian-offset="100" data-nahian-delay=".2s">
 			<div class="col-md-12 pd0">
 				<div class="col-md-3 col-sm-3 pd0 courseBdr">Course</div>
@@ -157,7 +210,7 @@
 					<p class="crsDisTite">DAY AND TIMES</p>
 					<p class="crsDisBody">2 hours a day & 2 days a week.</p>
 					<p class="crsDisTite">COURSE FEE</p>
-					<p class="crsDisBody">20,000 Taka</p>
+					<p class="crsDisBody">15,000 Taka</p>
 				</div>
 				<div class="col-md-9 col-sm-9 pd0">
 					<img src="images/course/crsSeo.jpg" alt="SEO" class="img-responsive">

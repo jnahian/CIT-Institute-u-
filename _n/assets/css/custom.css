@@ -47,3 +47,29 @@
     -o-transform: translateY(2px);
     transform: translateY(2px);
 }
+textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+.login-box {
+    padding: 20px;
+    background: #ddd;
+    border: 1px solid #d4d4d4;
+/*    box-shadow: 0 0 10px #111;*/
+}
+.form-control:hover,
+.form-control:focus {
+    border-color: #2d607b;
+}
+.n-cor {
+    display: none;
+}
+.table thead {
+    background: #eee;
+}
+.table tbody tr:nth-child(2n) {
+    background: #f9f9f9;
+}
+.form-group label span {
+    color: #c44;
+}

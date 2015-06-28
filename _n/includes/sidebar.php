@@ -9,8 +9,8 @@
             <li class="droplink"><a href="#" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-edit"></span><p>Content Manager</p><span class="arrow"></span></a>
                 <ul class="sub-menu">
                     <li><a href="m_course.php">Courses</a></li>
-                    <li><a href="">Teachers Profile</a></li>
-                    <li><a href="">Press &amp; media</a></li>
+                    <li><a href="m_teachers.php">Teachers Profile</a></li>
+                    <li><a href="m_press_media.php">Press &amp; media</a></li>
                 </ul>
             </li>
             <li class="droplink"><a href="#" class="waves-effect waves-button"><span class="menu-icon glyphicon glyphicon-camera"></span><p>Gallery Manager</p><span class="arrow"></span></a>

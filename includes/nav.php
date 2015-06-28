@@ -34,30 +34,7 @@
                                     </a>
                                 </li>
                                 <!--/.nm01-->
-                                <li class="nm01">
-                                    <a href="webdesign_details.php#link">
-                                        <div class="icon text-center">
-                                            <img src="images/mmenu/wd.png" alt="wd.png">
-                                        </div>
-                                        <div class="text">
-                                            <h4>web design</h4>
-                                            <p>Web Interface Design</p>
-                                        </div>
-                                    </a>
-                                </li>
-                                <!--/.nm01-->
-                                <li class="nm01">
-                                    <a href="webdevelopment_details.php#link">
-                                        <div class="icon text-center">
-                                            <img src="images/mmenu/wdev.png" alt="wdev.png">
-                                        </div>
-                                        <div class="text">
-                                            <h4>web developement</h4>
-                                            <p>PHP (OOP), MySQL, Ajax, Json</p>
-                                        </div>
-                                    </a>
-                                </li>
-                                <!--/.nm01-->
+                                
                                 <li class="nm01">
                                     <a href="ccna_details.php#link">
                                         <div class="icon text-center">
@@ -70,18 +47,7 @@
                                     </a>
                                 </li>
                                 <!--/.nm01-->
-                                <li class="nm01">
-                                    <a href="opnet_details.php#link">
-                                        <div class="icon text-center">
-                                            <img src="images/mmenu/opnet.png" alt="ce.png">
-                                        </div>
-                                        <div class="text">
-                                            <h4>OPNET / Riverbed</h4>
-                                            <p>Network Design &amp; Analysis</p>
-                                        </div>
-                                    </a>
-                                </li>
-                                <!--/.nm01-->
+
                                 <li class="nm01">
                                     <a href="3d_details.php#link">
                                         <div class="icon text-center">
@@ -94,54 +60,33 @@
                                     </a>
                                 </li>
                                 <!--/.nm01-->
+                                
                                 <li class="nm01">
-                                    <a href="seo_details.php#link">
+                                    <a href="webdesign_details.php#link">
                                         <div class="icon text-center">
-                                            <img src="images/mmenu/seo.png" alt="seo.png">
+                                            <img src="images/mmenu/wd.png" alt="wd.png">
                                         </div>
                                         <div class="text">
-                                            <h4>seo</h4>
-                                            <p>OnPage & Off Page Optimization</p>
+                                            <h4>web design</h4>
+                                            <p>Web Interface Design</p>
                                         </div>
                                     </a>
                                 </li>
                                 <!--/.nm01-->
+
                                 <li class="nm01">
-                                    <a href="emailmarket_details.php#link">
+                                    <a href="opnet_details.php#link">
                                         <div class="icon text-center">
-                                            <img src="images/mmenu/emm.png" alt="emm.png">
+                                            <img src="images/mmenu/opnet.png" alt="ce.png">
                                         </div>
                                         <div class="text">
-                                            <h4>Email Marketing</h4>
-                                            <p>Ad, Advertising, Blog Comments</p>
+                                            <h4>OPNET / Riverbed</h4>
+                                            <p>Network Design &amp; Analysis</p>
                                         </div>
                                     </a>
                                 </li>
                                 <!--/.nm01-->
-                                <li class="nm01">
-                                    <a href="apps_details.php#link">
-                                        <div class="icon text-center">
-                                            <img src="images/mmenu/apps.png" alt="apps.png">
-                                        </div>
-                                        <div class="text">
-                                            <h4>Apps Development</h4>
-                                            <p>UI, Android Application, SQLite</p>
-                                        </div>
-                                    </a>
-                                </li>
-                                <!--/.nm01-->
-                                <li class="nm01">
-                                    <a href="autocad_details.php#link">
-                                        <div class="icon text-center">
-                                            <img src="images/mmenu/acad.png" alt="acad.png">
-                                        </div>
-                                        <div class="text">
-                                            <h4>Architectural CAD</h4>
-                                            <p>Auto CAD, 3D Modeling, Interior</p>
-                                        </div>
-                                    </a>
-                                </li>
-                                <!--/.nm01-->
+
                                 <li class="nm01">
                                     <a href="tvcommerce_details.php#link">
                                         <div class="icon text-center">
@@ -154,6 +99,74 @@
                                     </a>
                                 </li>
                                 <!--/.nm01-->
+                                
+                                <li class="nm01">
+                                    <a href="webdevelopment_details.php#link">
+                                        <div class="icon text-center">
+                                            <img src="images/mmenu/wdev.png" alt="wdev.png">
+                                        </div>
+                                        <div class="text">
+                                            <h4>web developement</h4>
+                                            <p>PHP (OOP), MySQL, Ajax, Json</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!--/.nm01-->
+
+                                <li class="nm01">
+                                    <a href="emailmarket_details.php#link">
+                                        <div class="icon text-center">
+                                            <img src="images/mmenu/emm.png" alt="emm.png">
+                                        </div>
+                                        <div class="text">
+                                            <h4>Email Marketing</h4>
+                                            <p>Ad, Advertising, Blog Comments</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!--/.nm01-->
+                                
+                                <li class="nm01">
+                                    <a href="autocad_details.php#link">
+                                        <div class="icon text-center">
+                                            <img src="images/mmenu/acad.png" alt="acad.png">
+                                        </div>
+                                        <div class="text">
+                                            <h4>Architectural CAD</h4>
+                                            <p>Auto CAD, 3D Modeling, Interior</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!--/.nm01-->
+
+                                <li class="nm01">
+                                    <a href="apps_details.php#link">
+                                        <div class="icon text-center">
+                                            <img src="images/mmenu/apps.png" alt="apps.png">
+                                        </div>
+                                        <div class="text">
+                                            <h4>Apps Development</h4>
+                                            <p>UI, Android Application, SQLite</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!--/.nm01-->
+                                
+                                <li class="nm01">
+                                    <a href="seo_details.php#link">
+                                        <div class="icon text-center">
+                                            <img src="images/mmenu/seo.png" alt="seo.png">
+                                        </div>
+                                        <div class="text">
+                                            <h4>seo</h4>
+                                            <p>OnPage & Off Page Optimization</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!--/.nm01-->
+                                
+                                
+                                
                                 <li class="nm01">
                                     <a href="ce_details.php#link">
                                         <div class="icon text-center">

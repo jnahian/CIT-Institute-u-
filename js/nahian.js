@@ -9,10 +9,12 @@ $(document).ready(function(){
             if( $scrollPos >= $navOffest ){
                 $("nav.navBg").addClass("navbar-fixed-top").css("margin-top","0");
                 $(".navBg").css("background","rgba(0,0,0, 1)");
+                $('.tp-bullets').css("display", "none");
             }
             else{
                 $("nav.navBg").removeClass("navbar-fixed-top");
                 $(".navBg").css("background","rgba(0,0,0, 0.6)");
+                $('.tp-bullets').css("display", "block");
             }
         });
     }
@@ -35,22 +37,22 @@ $(document).ready(function(){
         $vId = $(this).data('src');
         $vLink = "https://www.youtube.com/embed/"+$vId+"?autoplay=1&&rel=0";
 //        alert($vLink);
-        $('div.modal').show(500);
+        $('div.modal').fadeIn(300);
         $('iframe#mVideo').attr('src', $vLink);
     });
     $('div.modal button.close').click(function(){
-        $(this).parents('div.modal').hide(500);
+        $(this).parents('div.modal').fadeOut(300);
         $('iframe#mVideo').attr('src', '');
     });
     
 });
 $(window).load(function(){
 	$("#loader").fadeOut();
-    $('#popup').delay(2000).fadeIn(500);
-
-    $('#popup .popupbox button').click(function(){
-        $(this).parents('#popup').fadeOut(300); 
-    });
+//    $('#popup').delay(2000).fadeIn(500);
+//
+//    $('#popup .popupbox button').click(function(){
+//        $(this).parents('#popup').fadeOut(300); 
+//    });
 });
 
 new WOW().init();
@@ -129,11 +131,21 @@ $(function (){
     google.maps.event.addDomListener(window, 'load', initialize);
 });
 $(document).ready(function(){
-    $('.sleekslider').sleekslider({
-        thumbs: ['../images/banner.jpg', '../images/banner1.jpg', '../images/banner2.jpg','../images/banner3.jpg'],
-        labels:['Slide 1', 'Slide 2', 'Slide 3', 'Slide 4'],
-        speed: 1000
+   
+    $('.tp-banner').revolution({
+        delay: 7000,
+        startwidth: 1170,
+        startheight: 454,
+        onHoverStop: "off",	
+        touchenabled: "on",
+        hideThumbs: 1,
+        navigationType:"bullet",				// bullet, thumb, none
+        navigationStyle: "round",				// round,square,navbar,round-old,square-old,navbar-old, or any from the list in the docu (choose between 50+ different item), custom
+        navigationHAlign: "center",				// Vertical Align top,center,bottom
+        navigationVAlign: "bottom",					// Horizontal Align left,center,right
+        navigationVOffset: 80
     });
+
 });
 
 

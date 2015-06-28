@@ -13,7 +13,7 @@
     <div class="container pd0 marB20">
         <div class="col-md-4 col-sm-6 stuAchivments wow fadeInLeft" data-nahian-offset="200">
             <p>student</p>
-            <h3>achivements</h3>
+            <h3>achivements <a href="stu_achivments.php" class="pull-right">all videos</a></h3>
             <a id="video" href="" data-src="HzxPO14PfOU">
                 <img class="img-responsive" src="images/stu-achv.png" alt="">
                 <span class="fa fa-play"></span>
@@ -21,7 +21,7 @@
         </div><!--student achivments end-->
         <div class="col-md-4 col-sm-6 stuAchivments wow fadeInUp" data-nahian-offset="200">
             <p>student</p>
-            <h3>feedback</h3>
+            <h3>feedback <a href="stu_feedback.php" class="pull-right">all videos</a></h3>
             <div id="stuFeeds" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#stuFeeds" data-slide-to="0" class="active"></li>

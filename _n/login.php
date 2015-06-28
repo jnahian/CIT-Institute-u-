@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     
-<!-- Mirrored from lambdathemes.in/modern/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:54:05 GMT -->
+<!-- Mirrored from lambdathemes.in/modern/login.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:54:05 GMT -->
 <head>
         
         <!-- Title -->
@@ -48,9 +48,9 @@
                     <div class="row">
                         <div class="col-md-3 center">
                             <div class="login-box">
-                                <a href="index-2.html" class="logo-name text-lg text-center">Modern</a>
+                                <a href="index.php" class="logo-name text-lg text-center">Modern</a>
                                 <p class="text-center m-t-md">Please login into your account.</p>
-                                <form class="m-t-md" action="http://lambdathemes.in/modern/index.html">
+                                <form class="m-t-md" action="">
                                     <div class="form-group">
                                         <input type="email" class="form-control" placeholder="Email" required>
                                     </div>
@@ -58,9 +58,9 @@
                                         <input type="password" class="form-control" placeholder="Password" required>
                                     </div>
                                     <button type="submit" class="btn btn-success btn-block">Login</button>
-                                    <a href="forgot.html" class="display-block text-center m-t-md text-sm">Forgot Password?</a>
+                                    <a href="forgot.php" class="display-block text-center m-t-md text-sm">Forgot Password?</a>
                                     <p class="text-center m-t-xs text-sm">Do not have an account?</p>
-                                    <a href="register.html" class="btn btn-default btn-block m-t-md">Create an account</a>
+                                    <a href="register.php" class="btn btn-default btn-block m-t-md">Create an account</a>
                                 </form>
                                 <p class="text-center m-t-xs text-sm">2015 &copy; Modern by Steelcode.</p>
                             </div>
@@ -88,5 +88,5 @@
         
     </body>
 
-<!-- Mirrored from lambdathemes.in/modern/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:54:05 GMT -->
+<!-- Mirrored from lambdathemes.in/modern/login.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:54:05 GMT -->
 </html>

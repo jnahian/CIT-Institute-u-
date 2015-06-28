@@ -22,20 +22,13 @@
     <div class="row">
         <div class="col-lg-3 col-md-6">
             <div class="panel info-box panel-white">
+                <div class="panel-heading clearfix">
+                    <h4 class="panel-title">
+                        
+                    </h4>
+                </div>   
                 <div class="panel-body">
-                    <div class="info-box-stats">
-                        <h3>View Managed Data</h3>
-                        <span class="info-box-title">User activity this month</span>
-                    </div>
-                    <div class="info-box-icon">
-                        <i class="icon-users"></i>
-                    </div>
-                    <div class="info-box-progress">
-                        <div class="progress progress-xs progress-squared bs-n">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>

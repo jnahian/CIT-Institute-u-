@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     
-<!-- Mirrored from lambdathemes.in/modern/register.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:59:03 GMT -->
+<!-- Mirrored from lambdathemes.in/modern/register.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:59:03 GMT -->
 <head>
         
         <!-- Title -->
@@ -48,9 +48,9 @@
                     <div class="row">
                         <div class="col-md-3 center">
                             <div class="login-box">
-                                <a href="index-2.html" class="logo-name text-lg text-center">Modern</a>
+                                <a href="index.php" class="logo-name text-lg text-center">Modern</a>
                                 <p class="text-center m-t-md">Create a Modern's account</p>
-                                <form class="m-t-md" action="http://lambdathemes.in/modern/login.html">
+                                <form class="m-t-md" action="http://lambdathemes.in/modern/login.php">
                                     <div class="form-group">
                                         <input type="name" class="form-control" placeholder="Name" required>
                                     </div>
@@ -65,7 +65,7 @@
                                     </label>
                                     <button type="submit" class="btn btn-success btn-block m-t-xs">Submit</button>
                                     <p class="text-center m-t-xs text-sm">Already have an account?</p>
-                                    <a href="login.html" class="btn btn-default btn-block m-t-xs">Login</a>
+                                    <a href="login.php" class="btn btn-default btn-block m-t-xs">Login</a>
                                 </form>
                                 <p class="text-center m-t-xs text-sm">2015 &copy; Modern by Steelcode.</p>
                             </div>
@@ -93,5 +93,5 @@
         
     </body>
 
-<!-- Mirrored from lambdathemes.in/modern/register.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:59:03 GMT -->
+<!-- Mirrored from lambdathemes.in/modern/register.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2015 10:59:03 GMT -->
 </html>
